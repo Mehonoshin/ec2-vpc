@@ -14,7 +14,7 @@ This role setups the following:
 
 ### Usage
 
-Check out (https://github.com/Mehonoshin/ec2-swarm)[https://github.com/Mehonoshin/ec2-swarm] to see example of setting up Docker Swarm cluster inside VPC
+Check out [https://github.com/Mehonoshin/ec2-swarm](https://github.com/Mehonoshin/ec2-swarm) to see example of setting up Docker Swarm cluster inside VPC
 
 ### TODO
 
